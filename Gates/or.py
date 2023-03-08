@@ -23,3 +23,8 @@ qc.measure(2, 0)
 
 %matplotlib inline
 qc.draw(output="mpl")
+
+simulator = Aer.get_backend("qasm_simulator")
+result = execute(qc, backend = simulator, shots = 8192).result()
+from qiskit.tools.visualization import plot_histogram
+plot_histogram(result.get_counts())
