@@ -21,6 +21,7 @@ cor = Operator([
     [0, 0, 0, 1, 0, 0, 0, 0],
     [0, 0, 0, 0, 1, 0, 0, 0]
 ])
+qc.unitary(cor, [0, 1, 2], label='cor')
 
 qc.measure(2, 0)
 
