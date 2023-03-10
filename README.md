@@ -2,7 +2,7 @@
 <p>This repository is a collection of circuits which I have built from what I have understood by reading different materials available online and from books. I have followed Qiskit's Free Online Textbook and a few books: Qiskit Pocket Guide and Quantum Computing for Computer Scientists (by Noson Yanofsky). Feel free to open issues and discuss about better ways to implement what I have implemented.</p>
 <h3><b><u>Contents:</u></b></h3>
 <ul>
-<li>Base Gates
+<li>Base Gates</li>
 <ul>
 <li>and</li>
 <li>not</li>
