@@ -14,3 +14,12 @@
 <li>Half Adder</li>
 <li>Swap</li>
 </ul>
+
+<h3>Base Gates:</h3>
+<p>This folder is a collection of the basic gates used in classical computers, the only difference being that they can be used on an ideal Quantum Computer. These gates have been made using matrices and no special pre-existing quantum gates are used for their formation.</p>
+<ul>
+<li><code>and</code><p>: This gate does the normal and operation. It is same as the Toffoli Gate used in Quantum Computation.</p></li>
+<li><code>not</code><p>: This gate does the normal not operation. It has oen input</p></li>
+<li><code>or</code><p>: This gate does the normal or operation.</p></li>
+<li><code>xor</code><p>: This gate does the normal xor operation. It is same as the CX Gate used in Quantum Computation.</p></li>
+</ul>
