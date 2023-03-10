@@ -1,6 +1,6 @@
 <h1>Quantum-Mess</h1>
 <p>This repository is a collection of circuits which I have built from what I have understood by reading different materials available online and from books. I have followed Qiskit's Free Online Textbook and a few books: Qiskit Pocket Guide and Quantum Computing for Computer Scientists (by Noson Yanofsky). Feel free to open issues and discuss about better ways to implement what I have implemented.</p>
-<h3><b><u>Contents:</u></b></h3>
+<u><h3><b>Contents:</b></h3></u>
 <ul>
 <li>Base Gates
 <ul>
@@ -16,7 +16,6 @@
 </ul>
 
 <h3><u>Base Gates :</u></h3>
-<br>
 <p>This folder is a collection of the basic gates used in classical computers, the only difference being that they can be used on an ideal Quantum Computer. These gates have been made using matrices and no special pre-existing quantum gates are used for their formation.</p>
 <ul>
 <li><code>and</code><p>This gate does the normal and operation. It is same as the Toffoli Gate used in Quantum Computation.</p></li>
