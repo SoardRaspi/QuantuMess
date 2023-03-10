@@ -5,8 +5,8 @@
 <li>Base Gates
 <ul>
 <li>and</li>
-<li>or</li>
 <li>not</li>
+<li>or</li>
 <li>xor</li>
 </ul>
 </li>
