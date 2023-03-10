@@ -16,7 +16,7 @@
 </ul>
 
 <h3><u>Base Gates :</u></h3>
-<hr>
+<br>
 <p>This folder is a collection of the basic gates used in classical computers, the only difference being that they can be used on an ideal Quantum Computer. These gates have been made using matrices and no special pre-existing quantum gates are used for their formation.</p>
 <ul>
 <li><code>and</code><p>This gate does the normal and operation. It is same as the Toffoli Gate used in Quantum Computation.</p></li>
