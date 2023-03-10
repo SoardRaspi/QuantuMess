@@ -2,7 +2,14 @@
 <p>This repository is a collection of circuits which I have built from what I have understood by reading different materials available online and from books. I have followed Qiskit's Free Online Textbook and a few books: Qiskit Pocket Guide and Quantum Computing for Computer Scientists (by Noson Yanofsky). Feel free to open issues and discuss about better ways to implement what I have implemented.</p>
 <h3>Contents:</h3>
 <ul>
-<li>Base Gate</li>
+<li>Base Gates
+<ul>
+<li>and</li>
+<li>or</li>
+<li>not</li>
+<li>xor</li>
+</ul>
+</li>
 <li>Full Adder</li>
 <li>Half Adder</li>
 <li>Swap</li>
