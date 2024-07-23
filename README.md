@@ -3,6 +3,7 @@
 <h3><b>Contents:</b></h3>
 <hr>
 <ul>
+<li>VQC (Variational Quantum Classifier)</li>
 <li>Base Gates
 <ul>
 <li>and</li>
@@ -37,3 +38,7 @@
 <h3>Swap :</h3>
 <hr>
 <p>This folder has the code for creating a swap operation on the two input qubits. Theb solution is using a matrix which was created keeping mapping in mind. The folder also contains the image of the circuit and the histogram plot of the circuit.</p>
+
+<h3>VQC</h3>
+<hr>
+<p>This code implements a hybrid QML model which classifies two variables from the Iris Dataset into two types of Iris. The notebook is written in detail about the technical and mathematical aspects of the model.</p>
